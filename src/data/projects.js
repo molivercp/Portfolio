@@ -3,7 +3,7 @@ export const projects = [
     id: 1,
     title: "Tatame Gestor",
     description: "O Tatame Gestor é uma aplicação do tipo SPA (Single Page Application) voltada para facilitar a gestão de academias de lutas. O foco está no controle financeiro, gerenciamento de alunos, e envio automático de notificações via WhatsApp.",
-    image: "public/assets/tatame/capa.png",
+    image: "/assets/tatame/capa.png",
     images: [
       {
         src: "public/assets/tatame/alunos.png",
