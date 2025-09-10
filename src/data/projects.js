@@ -2,7 +2,7 @@ export const projects = [
   {
     id: 1,
     title: "Tatame Gestor",
-    description: "O Tatame Gestor é uma aplicação do tipo SPA (Single Page Application) voltada para facilitar a gestão de academias de lutas. O foco está no controle financeiro, gerenciamento de alunos, e envio automático de notificações via WhatsApp.",
+    description: "O Tatame Gestor é uma aplicação do tipo SPA (Single Page Application) voltada para facilitar a gestão de academias de lutas. O foco está no controle financeiro, gerenciamento de alunos, registro de frequência e envio automático de notificações via WhatsApp.",
     image: "/assets/tatame/capa.png",
     images: [
       {
@@ -59,7 +59,7 @@ export const projects = [
   {
     id: 3,
     title: "Mundo Petzzy - Site de Petshop",
-    description: "site de veterinária com agendamento online, perfil de pets e blog informativo sobre cuidados animais. Projeto desenvolvido em equipe durante o curso Geração Tech, porém fiz a maior parte.",
+    description: "Site de veterinária com agendamento online, perfil de pets e blog informativo sobre cuidados animais. Projeto desenvolvido em equipe durante o curso Geração Tech, porém fiz a maior parte.",
     image: "/assets/mundopettzy/capa (2).png",
     images: [
       {

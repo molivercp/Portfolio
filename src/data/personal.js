@@ -10,8 +10,8 @@ export const personalInfo = {
 };
 
 export const aboutMe = {
-  description: "Estudante de Análise e Desenvolvimento de Sistemas (Unifatecie, previsão 2025), com experiência prática em projetos pessoais e bootcamps nas áreas de desenvolvimento web (HTML, CSS, JavaScript, React, Node.js e Express). Finalista de hackathon e entre os 50 melhores do programa Geração Tech, destaco-me pela capacidade de liderança, trabalho em equipe e foco em soluções inovadoras. Busco constantemente aplicar as melhores práticas da comunidade tech no desenvolvimento de projetos reais e de impacto.",
-  additionalInfo: "Finalista de hackathon e destaque em bootcamps, sempre buscando aplicar as melhores práticas da comunidade tech em projetos inovadores.",
+  description: "Desenvolvedor Full-Stack com sólida experiência em React, Node.js e JavaScript. Finalista de hackathon no programa Geração Tech (top 10 entre 1000+ participantes) e criador de 4+ projetos web funcionais. Formando em Análise e Desenvolvimento de Sistemas, combinando conhecimento técnico com visão estratégica para entregar soluções inovadoras e de impacto.",
+  additionalInfo: "Sempre buscando aplicar as melhores práticas da comunidade tech em projetos inovadores.",
   education: [
     {
       degree: "Tecnólogo ADS - Unifatecie",

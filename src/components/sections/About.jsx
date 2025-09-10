@@ -14,7 +14,7 @@ const About = () => {
           <div className="space-y-6">
             <div className="glass-card p-8">
               <h3 className="text-2xl font-bold text-cyan-400 mb-4">
-                Desenvolvedor Full Stack em Formação
+                Desenvolvedor Full Stack
               </h3>
               <p className="text-slate-300 leading-relaxed mb-4">
                 {aboutMe.description}
