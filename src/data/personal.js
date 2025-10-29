@@ -14,9 +14,14 @@ export const aboutMe = {
   additionalInfo: "Sempre buscando aplicar as melhores práticas da comunidade tech em projetos inovadores.",
   education: [
     {
-      degree: "Tecnólogo ADS - Unifatecie",
-      year: "2025",
+      degree: "Tecnólogo ADS - Unifatecie (andamento",
+      year: "2026",
       icon: "🎓"
+    },
+    {
+      degree: "Bacharelado Ciencia da Computação - Unigrande (andamento)",
+      year: "2029", 
+      icon: "📚"
     },
     {
       degree: "Hackathon Geração Tech - 50 Melhores - Finalista (10 melhores)",
