@@ -15,8 +15,8 @@ export const aboutMe = {
   additionalInfo: "Sempre buscando aplicar as melhores práticas da comunidade tech em projetos inovadores.",
   education: [
     {
-      degree: "Tecnólogo ADS - Unifatecie (andamento",
-      year: "2026",
+      degree: "Tecnólogo ADS - Unifatecie",
+      year: "2025",
       icon: "🎓"
     },
     {
