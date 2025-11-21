@@ -38,19 +38,19 @@ export const projects = [
     images: [
       {
         src: "/assets/drip/carrinho.png",
-        alt: "E-commerce - Homepage com produtos em destaque"
+        
       },
       {
         src: "/assets/drip/categoria.png",
-        alt: "E-commerce - Página de produto com galeria de imagens"
+        
       },
       {
         src: "/assets/drip/filtros.png",
-        alt: "E-commerce - Carrinho de compras e checkout"
+        
       },
       {
         src: "/assets/drip/home.png",
-        alt: "E-commerce - Dashboard administrativo com vendas"
+        
       }
     ],
     techs: ["React", "Express", "MySQL", "NodeJS", "Bootstrap"],
@@ -64,29 +64,29 @@ export const projects = [
     images: [
       {
         src: "/assets/mundopettzy/home.png",
-        alt: "Task Manager - Dashboard principal com board de tarefas"
+       
       },
       {
         src: "/assets/mundopettzy/home 2.png",
-        alt: "Task Manager - Sistema Kanban com drag and drop"
+        
       },
       {
         src: "/assets/mundopettzy/serv.png",
-        alt: "Task Manager - Interface de colaboração em equipe"
+        
       },
       {
         src: "/assets/mundopettzy/cat.png",
-        alt: "Task Manager - Relatórios de produtividade e métricas"
+        
       }
       ,
       {
         src: "/assets/mundopettzy/form.png",
-        alt: "Task Manager - Relatórios de produtividade e métricas"
+        
       }
       ,
       {
         src: "/assets/mundopettzy/login.png",
-        alt: "Task Manager - Relatórios de produtividade e métricas"
+        
       }
     ],
     techs: ["HTML", "CSS", "Bootstrap",],
@@ -100,20 +100,59 @@ export const projects = [
     images: [
       {
         src: "/assets/recruiting/calc.png",
-        alt: "Weather Dashboard - Visão geral com condições atuais"
+        
       },
       {
         src: "/assets/recruiting/senha.png",
-        alt: "Weather Dashboard - Previsão semanal detalhada"
+        
       },
       {
         src: "/assets/recruiting/block.png",
-        alt: "Weather Dashboard - Mapa interativo com radar meteorológico"
+        
       },
 
     ],
     techs: ["HTML", "CSS", "Javascript", "Node.js"],
     github: "https://github.com/molivercp/Recruitig-Day-Final"
+  },
+  {
+    id: 5,
+    title: "Sabor Jaguaribano - E-commerce de Produtos Regionais",
+    description: "E-commerce desenvolvido para comercialização de produtos artesanais e regionais do Ceará, incluindo queijos, mel, castanhas e doces caseiros. O sistema oferece uma experiência completa de compra online com gestão de produtos, carrinho de compras, múltiplas opções de entrega e painel administrativo.",
+    image: "/assets/saborjaguaribano/Captura de tela 2025-11-21 132901.png",
+    images: [
+      {
+        src: "/assets/saborjaguaribano/Captura de tela 2025-11-21 132919.png",
+        
+      },
+      {
+        src: "/assets/saborjaguaribano/Captura de tela 2025-11-21 132937.png",
+        
+      },
+      {
+        src: "/assets/saborjaguaribano/Captura de tela 2025-11-21 133002.png",
+        
+      },
+      {
+        src: "assets/saborjaguaribano/Captura de tela 2025-11-21 133042.png",
+        
+      },
+      {
+        src: "/assets/saborjaguaribano/Captura de tela 2025-11-21 133119.png",
+        
+      },
+      {
+        src: "/assets/saborjaguaribano/Captura de tela 2025-11-21 133132.png",
+        
+      },
+      {
+        src: "/assets/saborjaguaribano/Captura de tela 2025-11-21 133301.png",
+        
+      },
+
+    ],
+    techs: ["React", "Tailwind CSS", "Typescript", "shadcn/ui", "Supabase", "PostgreSQL"],
+    website: "https://saborjaguaribano.com.br"
   },
   
   
