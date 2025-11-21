@@ -6,7 +6,8 @@ export const personalInfo = {
   linkedin: "https://www.linkedin.com/in/mateus-oliveira-47908b138",
   github: "https://github.com/molivercp",
   bio: "Transformando ideias em experiências digitais excepcionais. Especializado em React, Node.js e tecnologias modernas.",
-  profileImage: "https://avatars.githubusercontent.com/u/171882221?s=400&u=4a124342b5dd86c66aa55a861a3b5b986c8c1e01&v=4"
+  profileImage: "https://avatars.githubusercontent.com/u/171882221?s=400&u=4a124342b5dd86c66aa55a861a3b5b986c8c1e01&v=4",
+  cv: "/assets/CV-Mateus-Oliveira.pdf"
 };
 
 export const aboutMe = {
